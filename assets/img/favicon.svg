@@ -1,0 +1,30 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>add_alarm icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<clipPath id="clip-2K1GI6eZ">
+			<path d="M896,554.67c0,212.05 -171.95,384 -384,384c-212.48,0 -384,-171.95 -384,-384c0,-212.05 171.95,-384 384,-384c212.05,0 384,171.95 384,384zM810.67,554.67c0,-165.12 -133.55,-298.67 -298.67,-298.67c-165.12,0 -298.67,133.55 -298.67,298.67c0,165.12 133.55,298.66 298.67,298.66c165.12,0 298.67,-133.54 298.67,-298.66zM554.67,512h128v85.33h-128v128h-85.34v-128h-128v-85.33h128v-128h85.34zM883.63,309.33l-196.27,-164.69l55.04,-65.28l196.27,164.69zM140.37,308.91l-55.04,-65.28l196.27,-164.27l54.61,65.28z" fill="none"/>
+		</clipPath>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-S172DnHJ">
+			<stop offset="0" stop-color="#5becff"/>
+			<stop offset="1" stop-color="#42d3ff"/>
+		</linearGradient>
+		<filter id="filter-APIiVfJd" x="0%" y="0%" width="100%" height="100%" color-interpolation-filters="sRGB">
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.13 0" in="SourceGraphic"/>
+			<feOffset dy="13.33"/>
+			<feGaussianBlur stdDeviation="7.33" result="blur0"/>
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.2 0" in="SourceGraphic"/>
+			<feOffset dy="20"/>
+			<feGaussianBlur stdDeviation="13.33" result="blur1"/>
+			<feMerge>
+				<feMergeNode in="blur0"/>
+				<feMergeNode in="blur1"/>
+			</feMerge>
+		</filter>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M896,554.67c0,212.05 -171.95,384 -384,384c-212.48,0 -384,-171.95 -384,-384c0,-212.05 171.95,-384 384,-384c212.05,0 384,171.95 384,384zM810.67,554.67c0,-165.12 -133.55,-298.67 -298.67,-298.67c-165.12,0 -298.67,133.55 -298.67,298.67c0,165.12 133.55,298.66 298.67,298.66c165.12,0 298.67,-133.54 298.67,-298.66zM554.67,512h128v85.33h-128v128h-85.34v-128h-128v-85.33h128v-128h85.34zM883.63,309.33l-196.27,-164.69l55.04,-65.28l196.27,164.69zM140.37,308.91l-55.04,-65.28l196.27,-164.27l54.61,65.28z" fill="url(#color-S172DnHJ)"/>
+		<g clip-path="url(#clip-2K1GI6eZ)">
+			<path d="M23.33,967.34v-983.31h977.34v983.31zM512,170.67c-212.05,0 -384,171.95 -384,384c0,212.05 171.52,384 384,384c212.05,0 384,-171.95 384,-384c0,-212.05 -171.95,-384 -384,-384zM512,853.33c-165.12,0 -298.67,-133.54 -298.67,-298.66c0,-165.12 133.55,-298.67 298.67,-298.67c165.12,0 298.67,133.55 298.67,298.67c0,165.12 -133.55,298.66 -298.67,298.66zM554.67,384h-85.34v128h-128v85.33h128v128h85.34v-128h128v-85.33h-128zM938.67,244.05l-196.27,-164.69l-55.04,65.28l196.27,164.69zM336.21,144.64l-54.61,-65.28l-196.27,164.27l55.04,65.28z" filter="url(#filter-APIiVfJd)" fill="#000000"/>
+		</g>
+	</g>
+</svg>
